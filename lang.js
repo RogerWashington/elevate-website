@@ -166,7 +166,7 @@
           "email": "Email",
           "emailPh": "jane@example.com",
           "phone": "Phone",
-          "phonePh": "(510) 555-0123",
+          "phonePh": "999 999 999",
           "type": "What do you need help with?",
           "choose": "Choose a service",
           "options": [
@@ -318,7 +318,7 @@
         "titleAccent": "un mensaje de distancia.",
         "description": "Cuéntanos sobre tu casa, departamento, oficina o Airbnb. Respondemos en un día hábil con un plan y precio a tu medida.",
         "phone": "+51 938 707 127",
-        "email": "hola@elevatepropertyservices.com",
+        "email": "contacto@elevateps.com.pe",
         "area": "Lima",
         "form": {
           "name": "Tu nombre",
@@ -326,7 +326,7 @@
           "email": "Correo electrónico",
           "emailPh": "jane@ejemplo.com",
           "phone": "Teléfono",
-          "phonePh": "(510) 555-0123",
+          "phonePh": "999 999 999",
           "type": "¿En qué necesitas ayuda?",
           "choose": "Elige un servicio",
           "options": [
